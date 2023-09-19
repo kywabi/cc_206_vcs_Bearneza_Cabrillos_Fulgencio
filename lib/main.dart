@@ -1,3 +1,4 @@
+// {Noriel F. Fulgencio} : {"Never Lose Hope"}
 import 'package:flutter/material.dart';
 
 void main() {
