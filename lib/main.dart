@@ -1,3 +1,7 @@
+//{ Kyla B. Bearneza } : {"To want is to able "}
+//{ Karen Madoline A. Cabrillos } : {"If there's a will, there's a way"}
+//{ Noriel F. Fulgencio } : {"Never Lose Hope"}
+
 import 'package:flutter/material.dart';
 
 void main() {
